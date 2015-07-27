@@ -1,0 +1,6 @@
+C:\Users\Yasin.YAS-XW4600-2\Documents\VC#\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.pdb
+C:\Users\Yasin.YAS-XW4600-2\Documents\VC#\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.csprojResolveAssemblyReference.cache
+C:\Users\Yasin.YAS-XW4600-2\Documents\VC#\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.pdb
+C:\Users\Yasin.YAS-XW4600-2\Documents\VC#\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.dll.config
+C:\Users\Yasin.YAS-XW4600-2\Documents\VC#\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.dll
+C:\Users\Yasin.YAS-XW4600-2\Documents\VC#\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.dll
